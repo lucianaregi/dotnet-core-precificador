@@ -2,8 +2,8 @@
 API RESTful em .net core que permite o controle do preço de venda utilizando o markup como método de precificação.
 
 ### Pré-requisitos
-.net core 3.1
-mysql
+1. .net core 3.1
+2. mysql
 
 ### Executando os testes iniciais
 Através de endpoints com os verbos: GET, POST, PUT E DELETE
